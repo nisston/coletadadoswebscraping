@@ -1,4 +1,4 @@
-# Palestra Sobre Web Scraping
+# Coleta de Dados com o Web Scraping
 
 ## Apresentação
 
