@@ -84,7 +84,7 @@
    - Facilita a extração de dados de arquivos HTML e XML. Permite navegar, buscar e modificar a estrutura da página de forma eficiente.
    - **Uso comum**: Analisar o conteúdo HTML e extrair informações específicas, como tags e atributos.
 
-### 2. **Requests** ([Link]([url](https://requests.readthedocs.io/en/latest/))): 
+### 2. **Requests** [Link](https://requests.readthedocs.io/en/latest/): 
    - Simples e poderosa para fazer requisições HTTP. Permite obter o conteúdo de páginas web de forma fácil e segura.
    - **Uso comum**: Baixar o HTML de uma página, essencial para iniciar o processo de scraping.
 
