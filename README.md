@@ -78,6 +78,25 @@
    - Sempre respeite as leis e regulamentos locais relacionados a web scraping, e siga práticas éticas na coleta de dados.
    - Não colete informações pessoais sem permissão, e esteja ciente de regulamentações como o **GDPR** (na União Europeia) e o **CCPA** (na Califórnia, EUA) para proteger a privacidade dos usuários.
 
+## Bibliotecas Python essenciais para **Web Scraping**:
 
+### 1. **BeautifulSoup**: 
+   - Facilita a extração de dados de arquivos HTML e XML. Permite navegar, buscar e modificar a estrutura da página de forma eficiente.
+   - **Uso comum**: Analisar o conteúdo HTML e extrair informações específicas, como tags e atributos.
 
+### 2. **Requests**: 
+   - Simples e poderosa para fazer requisições HTTP. Permite obter o conteúdo de páginas web de forma fácil e segura.
+   - **Uso comum**: Baixar o HTML de uma página, essencial para iniciar o processo de scraping.
+
+### 3. **Selenium**: 
+   - Uma ferramenta de automação de navegadores que pode ser usada para interagir com páginas dinâmicas (JavaScript).
+   - **Uso comum**: Realizar scraping em sites com conteúdo carregado dinamicamente, como clicar em botões e rolar páginas.
+
+### 4. **Pandas**: 
+   - Biblioteca poderosa para manipulação e análise de dados tabulares.
+   - **Uso comum**: Organizar e estruturar os dados extraídos de páginas web em formatos como DataFrames, facilitando a análise.
+
+### 5. **lxml**: 
+   - Uma biblioteca rápida para processar e manipular documentos XML e HTML.
+   - **Uso comum**: Alternativa ao BeautifulSoup para parsing de HTML, especialmente quando o desempenho é um fator importante.
 
