@@ -4,6 +4,11 @@
 
 **Web scraping**, ou simplesmente "**scraping**", é uma técnica de extração de dados usada para coletar informações de sites da web. O processo envolve fazer solicitações HTTP para páginas da web, analisar o conteúdo dessas páginas e extrair os dados desejados para uso posterior.
 
+## Alguns exemplos do Google Colab:
+
+- Exemplo1 - Trabalhando com os principais elementos e a biblioteca Slenium - [Link](https://colab.research.google.com/drive/1_fcKkUhvea-4lWO8-6wi6At3fzKVLLqb?usp=sharing)
+- Exemplo2
+
 ## Conceitos-chave relacionados ao web scraping:
 
 **Requisições HTTP**: No web scraping, o primeiro passo é fazer solicitações para os servidores web que hospedam as páginas desejadas. Isso é feito usando métodos como GET ou POST. As bibliotecas Python, como requests, são comumente usadas para esse propósito.
