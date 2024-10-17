@@ -12,6 +12,14 @@
 - Exemplo_Prático_04 -
 - Exemplo_Prático_05 -
 
+## Alguns exemplos de API
+- https://dadosabertos.tse.jus.br
+- http://dados.gov.br
+- https://servicodados.ibge.gov.br/api/docs
+- https://portaldatransparencia.gov.br/api-de-dados
+- https://www12.senado.leg.br/dados-abertos
+- https://servicodados.ibge.gov.br/api/v1/localidades/estados/{UF}/municipios
+
 ## Conceitos-chave relacionados ao web scraping:
 
 **Requisições HTTP**: No web scraping, o primeiro passo é fazer solicitações para os servidores web que hospedam as páginas desejadas. Isso é feito usando métodos como GET ou POST. As bibliotecas Python, como requests, são comumente usadas para esse propósito.
