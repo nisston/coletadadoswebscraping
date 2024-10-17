@@ -7,7 +7,7 @@
 ## Alguns exemplos do Google Colab:
 
 - Exemplo_Prático_01 - Trabalhando com os principais elementos da biblioteca Selenium - [Link](https://drive.google.com/file/d/1Vm2LYzPuGBJdnKcugOLnhqlRQdMXaPV6/view?usp=sharing)
-- Exemplo_Prático_02 - Construção de um código para pegar todos os títulos, quantidade em estoque e valores das páginas do (https://books.toscrape.com/index.html) - [Link](https://colab.research.google.com/drive/1_fcKkUhvea-4lWO8-6wi6At3fzKVLLqb?usp=sharing)
+- Exemplo_Prático_02 - Construção de um código para pegar todos os títulos, quantidade em estoque e valores das páginas do site - [Link](https://colab.research.google.com/drive/1_fcKkUhvea-4lWO8-6wi6At3fzKVLLqb?usp=sharing)
 - Exemplo_Prático_03 -
 - Exemplo_Prático_04 -
 - Exemplo_Prático_05 -
