@@ -2,7 +2,11 @@
 
 ## Apresentação
 
-**Web scraping**, ou simplesmente "**scraping**", é uma técnica de extração de dados usada para coletar informações de sites da web. O processo envolve fazer solicitações HTTP para páginas da web, analisar o conteúdo dessas páginas e extrair os dados desejados para uso posterior.
+O presente repositório foi criado para disponibilizar todo o material apresentado em uma palestra sobre o funcionamento dos passos necessários para realizar a coleta de dados em páginas da web utilizando a técnicas de "Web scraping".
+
+## O que é o Web Scraping
+
+O **Web scraping**, ou simplesmente "**scraping**", é uma técnica de extração de dados usada para coletar informações de sites da web. O processo envolve fazer solicitações HTTP para páginas da web, analisar o conteúdo dessas páginas e extrair os dados desejados para uso posterior.
 
 ## Alguns exemplos do Google Colab:
 
